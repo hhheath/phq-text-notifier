@@ -12,6 +12,14 @@ Download the project to the destination of your deepest desires...
 git clone https://github.com/hhheath/phq-text-notifier.git
 ```
 
+Create and start a virtual environment...
+
+```shell
+python -m venv .venv
+
+source .venv/bin/activate
+```
+
 Install requirements...
 
 ```shell
