@@ -30,7 +30,7 @@ response = requests.get(
       "start.gte": f"{today}",
       "start.lte": f"{today}",
       "within": f"{POI}",
-      "category": "politics,conferences,expos,concerts,festivals,performing-arts,sports,community"
+      "category": "conferences,expos,concerts,festivals,performing-arts,sports,community"
     }
 )
 
