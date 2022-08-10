@@ -38,6 +38,9 @@ events = response.json()
 
 message_body = "Events today: \n\n"
 
+if len(events['results']) == 0:
+    message_body = "No Events today! Consult PredictHQ Search just to be sure."
+
 for e in events['results']:
     message_body = message_body + f"{e['title']}, {e['phq_attendance']}\n"  
 
