@@ -52,4 +52,5 @@ Add the following to your crontab (this runs the script every day at 9am)...
 - [ ] use [Temporal](https://temporal.io) to spawn text message workflows on a schedule instead of relying on cron. 
   - this would enable the ability to "productize" this a bit more so you could send text messages to many different numbers rather than just one at a time.
 
-If you have any ideas, please feel free to open an issue! 
+If you have any ideas, please feel free to open an issue!
+
