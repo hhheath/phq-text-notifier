@@ -1,14 +1,8 @@
-<div align="center" float="left">
-  <p style="display: inline-block; border: 1px solid red;">
-    <img src="./assets/phq.png" alt="PHQ"/>
-  </p>
-  <p style="display: inline-block; border: 1px solid red;">
-    <img src="./assets/handshake.png" alt="handshake" height="80"/>
-  </p>
-  <p style="display: inline-block; border: 1px solid red;">
-    <img src="./assets/twilio.png" alt="Twilio" width="128px" height="128px"/>
-  </p>
-</div>
+<p float="left" align="center">
+  <img src="./assets/phq.png" alt="PHQ"/>
+  <img src="./assets/handshake.png" alt="handshake" height="80"/>
+  <img src="./assets/twilio.png" alt="Twilio" width="128px" height="128px"/>
+</p>
 
 # PHQ Text Notifier
 
