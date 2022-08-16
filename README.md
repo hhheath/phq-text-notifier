@@ -12,7 +12,9 @@ Download the project to the destination of your deepest desires...
 git clone https://github.com/hhheath/phq-text-notifier.git
 ```
 
-Create and start a virtual environment...
+Create and start a virtual environment... 
+
+**Note:** This step is not required if you plan to run this as a CRON job. Instead, the requirements will need to be installed for the system user that will be running the cron.
 
 ```shell
 python -m venv .venv
