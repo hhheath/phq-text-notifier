@@ -1,12 +1,12 @@
 <div align="center">
-  <p style="display: inline-block;">
-    <img src="https://github.com/hhheath/phq-text-notifier/blob/main/assets/phq.png" alt="PHQ" width="128" height="128"/>
+  <p style="display: inline-block; border: 1px solid red;">
+    <img src="./assets/phq.png" alt="PHQ"/>
   </p>
-  <p style="display: inline-block;">
-    🤝
+  <p style="display: inline-block; border: 1px solid red;">
+    <img src="./assets/handshake.png" alt="handshake" height="80"/>
   </p>
-  <p style="display: inline-block;">
-    <img src="https://github.com/hhheath/phq-text-notifier/blob/main/assets/twilio.png" alt="Twilio" width="128" height="128"/>
+  <p style="display: inline-block; border: 1px solid red;">
+    <img src="./assets/twilio.png" alt="Twilio" width="128px" height="128px"/>
   </p>
 </div>
 
