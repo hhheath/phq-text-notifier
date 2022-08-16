@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" float="left">
   <p style="display: inline-block; border: 1px solid red;">
     <img src="./assets/phq.png" alt="PHQ"/>
   </p>
