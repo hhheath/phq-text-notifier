@@ -1,3 +1,12 @@
+<div align="center">
+  <p align="center">
+    <img src="" alt="PHQ"/>
+  </p>
+  <p align="center">
+    🤝
+  </p>
+</div>
+
 # PHQ Text Notifier
 
 Using Twilio & PredictHQ, this program to sends a text message with an area's top events of the day. 
