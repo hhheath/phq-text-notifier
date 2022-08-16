@@ -51,7 +51,7 @@ After requirement installation, it's really up to you on how you want to run it.
 Add the following to your crontab (this runs the script every day at 9am)...
 
 ```shell
-0 0 9 ? * * * python ~/phq-text-notifier/main.py
+0 9 * * * python3 ~/phq-text-notifier/main.py
 ```
 
 ## Future Improvements
