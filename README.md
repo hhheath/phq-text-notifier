@@ -1,10 +1,14 @@
 <div align="center">
   <p align="center">
-    <img src="" alt="PHQ"/>
+    <img src="https://github.com/hhheath/phq-text-notifier/blob/main/assets/phq.png" alt="PHQ"/>
   </p>
   <p align="center">
     🤝
   </p>
+  <p align="center">
+    <img src="https://github.com/hhheath/phq-text-notifier/blob/main/assets/twilio.png" alt="Twilio"/>
+  </p>
+
 </div>
 
 # PHQ Text Notifier
