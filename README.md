@@ -1,14 +1,13 @@
-<div align="center">
+<div align="center" style="display: inline-block;">
   <p align="center">
-    <img src="https://github.com/hhheath/phq-text-notifier/blob/main/assets/phq.png" alt="PHQ"/>
+    <img src="https://github.com/hhheath/phq-text-notifier/blob/main/assets/phq.png" alt="PHQ" width="128" height="128"/>
   </p>
   <p align="center">
     🤝
   </p>
   <p align="center">
-    <img src="https://github.com/hhheath/phq-text-notifier/blob/main/assets/twilio.png" alt="Twilio"/>
+    <img src="https://github.com/hhheath/phq-text-notifier/blob/main/assets/twilio.png" alt="Twilio" width="128" height="128"/>
   </p>
-
 </div>
 
 # PHQ Text Notifier
