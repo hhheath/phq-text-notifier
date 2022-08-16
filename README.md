@@ -1,11 +1,11 @@
 <div align="center">
-  <p align="center" style="display: inline-block;">
+  <p style="display: inline-block;">
     <img src="https://github.com/hhheath/phq-text-notifier/blob/main/assets/phq.png" alt="PHQ" width="128" height="128"/>
   </p>
-  <p align="center" style="display: inline-block;">
+  <p style="display: inline-block;">
     🤝
   </p>
-  <p align="center" style="display: inline-block;">
+  <p style="display: inline-block;">
     <img src="https://github.com/hhheath/phq-text-notifier/blob/main/assets/twilio.png" alt="Twilio" width="128" height="128"/>
   </p>
 </div>
