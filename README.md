@@ -12,7 +12,7 @@ Currently set to include the top 5 events in an area.
 
 ## To Run
 
-Download the project to the destination of your deepest desires... 
+Download the project... 
 
 ```shell
 git clone https://github.com/hhheath/phq-text-notifier.git
